@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/bin/Debug/net6.0/operatorler
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/bin/Debug/net6.0/operatorler.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/bin/Debug/net6.0/operatorler.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/bin/Debug/net6.0/operatorler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/bin/Debug/net6.0/operatorler.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/operatorler.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/operatorler.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/operatorler.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/operatorler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/refint/operatorler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/operatorler.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/operatorler.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/operatorler/obj/Debug/net6.0/ref/operatorler.dll
